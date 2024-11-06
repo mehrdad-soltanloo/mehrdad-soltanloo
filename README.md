@@ -63,7 +63,7 @@ I'm a front-end developer actively expanding my skills in full-stack development
 
 ### 📈 2025 Goals
 
-- Achieve certifications in **ethical hacking** and **application security**
+- Achieve certifications in **Full Stack Web Development** and **cyber security**
 - Build more full-stack projects with a focus on **security** and **scalability**
 - Contribute to open-source projects related to **security** and **web development**
 - Improve my skills in **threat detection** and **incident response** for real-world application security
@@ -80,5 +80,5 @@ I'm a front-end developer actively expanding my skills in full-stack development
 
 ### 🌐 Let's Connect and Collaborate
 
-I'm always open to connecting with other tech professionals and cybersecurity enthusiasts. If you're interested in secure web development, ethical hacking, or full-stack projects, feel free to reach out. Let’s learn and grow together!
+I'm always open to connecting with other tech professionals and cybersecurity enthusiasts. If you're interested in secure web development, cyber security, or full-stack projects, feel free to reach out. Let’s learn and grow together!
 Happy coding and learning! 🚀💻

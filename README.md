@@ -8,7 +8,7 @@ I'm a front-end developer actively expanding my skills in full-stack development
 
 ### 🔭 Current Projects
 
--**React Projects**: Developing interactive, responsive web applications with a focus on state management, reusable components, and modern UI/UX practices. [Explore my React projects](https://github.com/mehrdad-soltanloo/react-projects) 
+- **React Projects**: Developing interactive, responsive web applications with a focus on state management, reusable components, and modern UI/UX practices. [Explore my React projects](https://github.com/mehrdad-soltanloo/react-projects) 
 
 - **Python Projects**: Building Python applications that range from web backends (using Django and Flask) to cybersecurity scripts for network scanning and data analysis. [Check out my Python repositories](https://github.com/mehrdad-soltanloo/python-projects)
 

@@ -29,20 +29,20 @@ I'm a front-end developer actively expanding my skills in full-stack development
 ### 📜 Certifications
 
 #### Completed
-- **[Google IT Support Certificate](https://coursera.org/share/f630ff4c85d314d83a1447015f0468b3)**  
+- **[Google IT Support Professional Certificate](https://coursera.org/share/f630ff4c85d314d83a1447015f0468b3)**  
 - **[Google Cybersecurity Analyst Professional Certificate](https://coursera.org/share/4513a1aae8a6af0b013df939975f2ead)**  
 - **[Google Digital Marketing & E-commerce Professional Certificate](https://coursera.org/share/2fcf6be12b8d94abee62db3ac961721b)**  
 - **[Meta Social Media Marketing Professional Certificate](https://coursera.org/share/216f41a21c9c6e4c04346de409e73f51)**  
-
 
 #### In Progress (Near Completion)
 - **Meta Front-End Developer Professional Certificate**
 - **Meta Back-End Developer Professional Certificate**
 - **IBM Full-Stack Developer Professional Certificate**
-- **Microsoft Cybersecurity Certification**
-- **IBM Cybersecurity Certification**
-- **Google UX Designer Professional Certificate**
+- **Microsoft Cybersecurity Analyst Professional Certificate**
+- **IBM Cybersecurity Analyst Professional Certificate**
+- **Google UX Design Professional Certificate**
 - **Google IT Automation with Python Professional Certificate**
+
   
 #### Soft Skills
 - **Teamwork & Collaboration**: Reliable team member who actively listens, respects others’ perspectives, and understands team members’ limitations. Committed to contributing positively and avoiding judgment to maintain a supportive work environment.

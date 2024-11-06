@@ -12,7 +12,7 @@ I'm a front-end developer actively expanding my skills in full-stack development
 
 - **Python Projects**: Building Python applications that range from web backends (using Django and Flask) to cybersecurity scripts for network scanning and data analysis. [Check out my Python repositories](https://github.com/mehrdad-soltanloo/python-projects)
 
-- **JavaScript Projects**: Working on JavaScript projects that include front-end applications, API integrations, and Node.js backends. These projects help me deepen my understanding of asynchronous programming and API security. [Browse my JavaScript projects](https://github.com/mehrdad-soltanloo)
+- **JavaScript Projects**: Working on JavaScript projects that include front-end applications, API integrations, and Node.js backends. These projects help me deepen my understanding of asynchronous programming and API security. [Browse my JavaScript projects](https://github.com/mehrdad-soltanloo/vanilla-js-projects)
 
 ---
 

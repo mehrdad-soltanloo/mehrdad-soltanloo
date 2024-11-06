@@ -29,9 +29,11 @@ I'm a front-end developer actively expanding my skills in full-stack development
 ### 📜 Certifications
 
 #### Completed
-- **Google Cybersecurity Analyst Professional Certificate**
-- **Google Digital Marketing & E-commerce Professional Certificate**
-- **Meta Social Media Marketing Professional Certificate**
+- **[Google IT Support Certificate](https://coursera.org/share/f630ff4c85d314d83a1447015f0468b3)**  
+- **[Google Cybersecurity Analyst Professional Certificate](https://coursera.org/share/4513a1aae8a6af0b013df939975f2ead)**  
+- **[Google Digital Marketing & E-commerce Professional Certificate](https://coursera.org/share/2fcf6be12b8d94abee62db3ac961721b)**  
+- **[Meta Social Media Marketing Professional Certificate](https://coursera.org/share/216f41a21c9c6e4c04346de409e73f51)**  
+
 
 #### In Progress (Near Completion)
 - **Meta Front-End Developer Professional Certificate**

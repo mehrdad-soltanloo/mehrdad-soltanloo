@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mehrdad Soltanloo
+# 👋 Hi there, I'm Mehrdad
 
 **Aspiring Full-Stack Developer | Cybersecurity Enthusiast | Passionate about Secure Web Development**
 
